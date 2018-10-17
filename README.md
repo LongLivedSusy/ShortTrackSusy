@@ -4,7 +4,7 @@
 
 Initial setup
 ```
-git clone https://github.com/ShortTrackSusy/ShortTrackSusy.git
+git clone https://github.com/LongLivedSusy/ShortTrackSusy.git
 mkdir jobs
 mkdir jobs/logs
 cp -r ShortTrackSusy/python .
